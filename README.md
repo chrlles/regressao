@@ -1,1 +1,1 @@
-# ci-ncia-de-dados
+# Supervisionado - Regressão Linear
